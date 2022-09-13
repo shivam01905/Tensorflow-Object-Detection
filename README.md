@@ -24,12 +24,13 @@ python -m ipykernel install --user --name=tfodj
 </pre>
 <br/>
 <b>Step 5.</b> Collect images using the Notebook <a href=>1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
-
 <br/>
+
 <b>Step 6.</b> Manually divide collected images into two folders train and test. So now all folders and annotations should be split between the following two folders. <br/>
 \TFODCourse\Tensorflow\workspace\images\train<br />
 \TFODCourse\Tensorflow\workspace\images\test
 <br/><br/>
+
 <b>Step 7.</b> Begin training process by opening 2. Training and Detection.ipynb</a>, this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model. 
 <br /><br/>
 
